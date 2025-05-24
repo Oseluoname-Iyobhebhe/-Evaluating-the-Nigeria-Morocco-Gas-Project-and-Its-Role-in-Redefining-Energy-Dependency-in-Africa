@@ -37,6 +37,7 @@ Final results will be visualized using Power BI, including:
 - A choropleth map displaying EII scores across the region
 - A bar chart comparing gas dependency and infrastructure development
 - Scatter plots assessing governance indicators (CPI and regulatory status) versus pipeline readiness
+
 These visualizations will be interpreted in alignment with continental policy frameworks such as Agenda 2063 and the AfCFTA, highlighting gaps and opportunities in Africa’s broader pursuit of integrated, inclusive energy development.
 
 
