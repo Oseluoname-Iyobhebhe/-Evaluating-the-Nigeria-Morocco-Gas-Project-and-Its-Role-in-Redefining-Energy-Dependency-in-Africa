@@ -7,6 +7,12 @@ This project explores how the Nigeria–Morocco Gas Pipeline, spanning 13 countr
 
 The study evaluates energy dependency profiles across the pipeline route and assesses whether the project advances Pan-African energy integration or reinforces extractive, export-first models. It draws on multi-country data related to gas demand, infrastructure readiness, and governance capacity, and introduces a custom Energy Integration Index to support policy recommendations.
 
+![Screenshot 2025-05-26 1 03 10 PM](https://github.com/user-attachments/assets/ecd96bde-a2ed-4213-8f37-e871c72376c3)
+
+
+![Screenshot 2025-05-26 1 03 21 PM](https://github.com/user-attachments/assets/c0bcab2a-8e44-4b65-a73a-71c437bba74f)
+
+
 # Objectives
 
 Analyze the gas supply-demand gap in each of the 13 pipeline countries.
