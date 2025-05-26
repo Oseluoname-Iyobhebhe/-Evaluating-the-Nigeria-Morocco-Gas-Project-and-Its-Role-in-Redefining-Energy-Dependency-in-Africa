@@ -13,6 +13,8 @@ The study evaluates energy dependency profiles across the pipeline route and ass
 ![Screenshot 2025-05-26 1 03 21 PM](https://github.com/user-attachments/assets/c0bcab2a-8e44-4b65-a73a-71c437bba74f)
 
 
+
+
 # Objectives
 
 Analyze the gas supply-demand gap in each of the 13 pipeline countries.
@@ -39,5 +41,4 @@ Recommend policies and regional frameworks that promote equitable energy sharing
 This study uses a comparative, indicator-based approach to assess the energy readiness of 13 countries along the Nigeria–Morocco Gas Pipeline route. Data were sourced from the World Bank, IEA, Transparency International, and Global Energy Monitor. Key indicators include electricity access, gas consumption and production, GDP per capita, pipeline infrastructure, and governance (CPI and regulatory presence). These will be normalized and used to construct a composite Energy Integration Index (EII), with countries grouped using basic cluster analysis to identify readiness typologies.
 
 # Data Presentation
-Final results will be visualized using Looker studio. 
-
+Final results were visualised using looker studio. Find the full report [here](https://lookerstudio.google.com/reporting/d72791af-d849-4c46-a78b-12665abab028)
