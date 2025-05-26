@@ -33,11 +33,5 @@ Recommend policies and regional frameworks that promote equitable energy sharing
 This study uses a comparative, indicator-based approach to assess the energy readiness of 13 countries along the Nigeria–Morocco Gas Pipeline route. Data were sourced from the World Bank, IEA, Transparency International, and Global Energy Monitor. Key indicators include electricity access, gas consumption and production, GDP per capita, pipeline infrastructure, and governance (CPI and regulatory presence). These will be normalized and used to construct a composite Energy Integration Index (EII), with countries grouped using basic cluster analysis to identify readiness typologies.
 
 # Data Presentation and Analysis
-Final results will be visualized using Power BI, including:
-- A choropleth map displaying EII scores across the region
-- A bar chart comparing gas dependency and infrastructure development
-- Scatter plots assessing governance indicators (CPI and regulatory status) versus pipeline readiness
-
-These visualizations will be interpreted in alignment with continental policy frameworks such as Agenda 2063 and the AfCFTA, highlighting gaps and opportunities in Africa’s broader pursuit of integrated, inclusive energy development.
-
+Final results will be visualized using Looker studio. 
 
